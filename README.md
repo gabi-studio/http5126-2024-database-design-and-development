@@ -4,7 +4,7 @@
 
 # Course description
 > [!IMPORTANT] 
-> referenced from the **[Humber course outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205121&view=1&year=2024)**:  
+> referenced from the **[Humber course outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205126&view=1&year=2024)**:  
 > This course delivers the fundamentals of well-formed, semantic HTML markup and CSS. Students will design and build responsive web interfaces based on mock-ups that are optimized for accessibility and search engines (SEO).
 
 # Program Outcomes
